@@ -5,7 +5,7 @@
 - **Project Number:** 1  
 - **Group Number:** 13  
 - **Course:** COMP1045 – Internet of Things (Arduino)  
-- **Instructor:** Anmar  
+- **Instructor:** Anmar Jarjees  
 
 ## Group Members
 - Jashanpreet Singh  
